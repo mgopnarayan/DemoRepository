@@ -1,2 +1,3 @@
 this is text file and created every day
 this is form master
+this is added by bugfix
